@@ -1,0 +1,13 @@
+Homepage: Tool
+Depiction: cbeios
+Author: Cbeios
+Maintainer: t.me/cbeios
+Name: Unity Leak Il2cpp
+Package: dynamic.leak
+Depends: firmware (>= 8.0)
+Section: Utilities
+Description: cbeios
+DEV: cbeios
+Architecture: iphoneos-arm
+Version: 1
+Installed-Size: 1532
