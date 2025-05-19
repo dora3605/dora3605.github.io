@@ -1,4 +1,0 @@
-module JGProgressHUD {
-    header "JGProgressHUD.h"
-    export *
-}
